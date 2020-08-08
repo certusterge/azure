@@ -20,6 +20,6 @@
 <!-- input preferences -->
 <gs:InputPreferences>
     <!--en-GB-->
-    <gs:InputLanguageID Action="add" ID="0c09:00000809" Default="true"/> 
+    <gs:InputLanguageID Action="add" ID="0809:00000809" Default="true"/> 
 </gs:InputPreferences>
 </gs:GlobalizationServices>
