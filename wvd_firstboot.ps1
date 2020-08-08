@@ -11,7 +11,7 @@
 ######################################
 
 #variables
-$regionalsettingsURL = "https://raw.githubusercontent.com/averkinderen/Azure/master/101-ServerBuild/AURegion.xml"
+$regionalsettingsURL = "https://raw.githubusercontent.com/certusterge/azure/master/wvd_firstboot_regionalsettings.xml"
 $RegionalSettings = "D:\WVDFirstBoot.xml"
 
 
